@@ -13,6 +13,9 @@
       "title": "Post 13"
     }
   ],
+  "customers":[
+    { "id": 1, "custName": "Customer 1" },
+  ],
   "comments": [
     {
       "id": 1,
