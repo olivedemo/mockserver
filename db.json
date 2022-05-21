@@ -15,6 +15,13 @@
   ],
   "customers":[
     { "id": 1, "custName": "Customer 1" },
+    { "id": 2, "custName": "Customer 2" },
+    { "id": 3, "custName": "Customer 3" },
+    { "id": 4, "custName": "Customer 4" },
+    { "id": 5, "custName": "Customer 5" },
+    { "id": 6, "custName": "Customer 6" },
+    { "id": 7, "custName": "Customer 7" },
+    { "id": 8, "custName": "Customer 8" }    
   ],
   "comments": [
     {
